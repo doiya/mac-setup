@@ -1,0 +1,7 @@
+cask_args appdir: "/Applications"
+
+brew 'git'
+
+tap 'homebrew/cask'
+cask 'karabiner-elements'
+cask 'alfred'
