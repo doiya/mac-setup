@@ -17,16 +17,21 @@ $ sh initSettings/defaultsSettings.sh
 - Brew bundle
 
 ```sh
-$ initSettings/installPackages.sh
+$ sh itSettings/installPackages.sh
 ```
 
 - Setting dotfiles
 
 ```sh
-$ initSettings/settingDotfiles.sh
+$ sh initSettings/settingDotfiles.sh
 ```
 
 - ssh key
 ```sh
-$ devSettings/sshKey.sh
+$ sh devSettings/sshKey.sh
+```
+
+- node
+```
+$ sh devSetting/node.sh
 ```
